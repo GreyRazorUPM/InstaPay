@@ -14,7 +14,35 @@ body {font-family:Arial, Helvetica, sans-serif;font-size:100%; color:#7f7f7f;min
 	margin:0 auto;
 	font-size:13px;
 	line-height:25px;
-}
+}gcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {display:block;}
+mark, rp, rt, ruby, summary, timegcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {display:block;}
+mark, rp, rt, ruby, summary, time {display:inline;}
+
+/* Global properties ======================================================== */
+html {width:100%;}
+body {font-family:Arial, Helvetica, sans-serif;font-size:100%; color:#7f7f7f;min-width:960px;background:#000}
+.ic {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
+.bg {width:100%; background:url(../images/bg-top.jpg) center 0 no-repeat;}
+
+.main {
+	width:960px; 	
+	padding:0;
+	margin:0 auto;
+	font-size:13px;
+	line-height:25px; {display:inline;}
+
+/* Global properties ======================================================== */
+html {width:100%;}
+body {font-family:Arial, Helvetica, sans-serif;font-size:100%; color:#7f7f7f;min-width:960px;background:#000}
+.ic {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
+.bg {width:100%; background:url(../images/bg-top.jpg) center 0 no-repeat;}
+
+.main {
+	width:960px; 	
+	padding:0;
+	margin:0 auto;
+	font-size:13px;
+	line-height:25px;
 .container {
 	width:940px; 	
 	padding:0;
@@ -28,7 +56,21 @@ a:hover {text-decoration:none;}
 .column-1, .column-2 {float:left;}
 
 .wrapper {width:100%; overflow:hidden;}
-.extra-wrap {overflow:hidden;}
+.extra-wrap {overflow:hidden;}gcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {display:block;}
+mark, rp, rt, ruby, summary, time {display:inline;}
+
+/* Global properties ======================================================== */
+html {width:100%;}
+body {font-family:Arial, Helvetica, sans-serif;font-size:100%; color:#7f7f7f;min-width:960px;background:#000}
+.ic {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
+.bg {width:100%; background:url(../images/bg-top.jpg) center 0 no-repeat;}
+
+.main {
+	width:960px; 	
+	padding:0;
+	margin:0 auto;
+	font-size:13px;
+	line-height:25px;
 .clear {
 	clear: both;
 	display: block;
